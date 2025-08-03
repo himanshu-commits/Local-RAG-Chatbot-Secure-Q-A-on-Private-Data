@@ -1,6 +1,4 @@
-Certainly! Here’s the README without any bold (\*\* \*\*) formatting:
 
-````markdown
 # Local-RAG-Chatbot-Secure-Q-A-on-Private-Data
 
 A local Retrieval-Augmented Generation (RAG) chatbot designed to securely answer queries on private data without relying on external APIs. This project demonstrates ingesting large documents, generating embeddings, performing semantic search, and leveraging local large language models (LLMs) for privacy-preserving, domain-specific question answering.
@@ -34,7 +32,6 @@ A local Retrieval-Augmented Generation (RAG) chatbot designed to securely answer
    ```bash
    git clone https://github.com/himanshu-commits/Local-RAG-Chatbot-Secure-Q-A-on-Private-Data.git
    cd Local-RAG-Chatbot-Secure-Q-A-on-Private-Data
-````
 
 2. Install dependencies:
 
@@ -106,7 +103,3 @@ Developed by Himanshu Gupta
 
 Empowering private, local AI assistants with full control over your data.
 
-```
-
-Let me know if you want any other edits!
-```
